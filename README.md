@@ -24,7 +24,7 @@ The layout renderer's name is ``appsetting``.
 #### Example: ####
 Target appsettings.json
 
-```json
+```js
 {
     "Mode":"Prod",
     "Options":{
